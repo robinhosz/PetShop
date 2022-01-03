@@ -1,3 +1,3 @@
-<strong>Dynamic Web Project Com MySQL</strong>
+<strong>Dynamic Web Project</strong>
 
-*Criação de uma aplicacão web em java de um petshop, utilizando MySQL*
+*Criação de um crud em uma aplicacão web em java de um petshop.*
